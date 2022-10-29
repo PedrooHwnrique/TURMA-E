@@ -1,13 +1,13 @@
 # TURMAF
-Meu projeto é um site para a loja LEBEL MODAS E SIMONE NAILS
+.Meu projeto é um site para a loja LEBEL MODAS E SIMONE NAILS
 
-Estou utilizando o HTML
+.Estou utilizando o HTML
 
-Estou progamando sozinho
+.Estou progamando sozinho
 
-Licença de uso
+.Licença de uso
 
-Esse e o link do meu site: 
+.Esse e o link do meu site: 
 
 
 
