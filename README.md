@@ -1,5 +1,5 @@
 # TURMAF
-1Meu projeto é um site para a loja LEBEL MODAS
+1Meu projeto é um site para a loja LEBEL MODAS E SIMONE NAILS
 
 Estou utilizando o HTML
 
@@ -9,5 +9,5 @@ Licença de uso
 
 Esse e o link do meu site: 
 
-deixei o mapa do alura pois nessa parte eu não entendo
+
 
