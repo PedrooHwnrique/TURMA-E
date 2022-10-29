@@ -1,5 +1,5 @@
 # TURMAF
-1Meu projeto é um site para a loja LEBEL MODAS
+Meu projeto é um site para a loja LEBEL MODAS
 
 Estou utilizando o HTML
 
