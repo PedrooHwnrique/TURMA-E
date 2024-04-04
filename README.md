@@ -8,7 +8,7 @@ TURMA E
 
 *Licença de uso
 
-*Esse e o link do meu site: https://pedroohwnrique.github.io/TURMAF/
+*Esse e o link do meu site: https://pedroohwnrique.github.io/TURMAE/
 
 
 
