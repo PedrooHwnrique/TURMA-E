@@ -1,6 +1,6 @@
 TURMA E
 
-*Meu projeto é um site para a loja LEBEL MODAS E SIMONE NAILS
+*Meu projeto é um site
 
 *Estou utilizando o HTML
 
